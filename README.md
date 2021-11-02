@@ -26,3 +26,5 @@ Follow the [Cloud Firestore Web Codelab][codelab] to set up this sample.
 [codelab]: https://codelabs.developers.google.com/codelabs/firestore-web
 [quickstart]: https://github.com/firebase/quickstart-js/tree/master/firestore
 [firestore-docs]: https://firebase.google.com/docs/firestore/
+
+Note to self: Here's how to start the emulator firebase emulators:start --only hosting
